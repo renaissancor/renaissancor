@@ -16,7 +16,7 @@
 
 ![OpenGL](https://img.shields.io/badge/-OpenGL-333333?style=flat&logo=opengl)
 ![DirectX](https://img.shields.io/badge/-DirectX-333333?style=flat&logo=directx)
-![Unreal Engine](https://img.shields.io/badge/-Unreal Engine-333333?style=flat&logo=unreal-engine)
+![Unreal Engine](https://img.shields.io/badge/-Unreal_Engine-333333?style=flat&logo=unreal-engine)
 ![Unity](https://img.shields.io/badge/-Unity-333333?style=flat&logo=unity)
 
 ---
