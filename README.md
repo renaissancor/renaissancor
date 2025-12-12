@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+---
+
 ## 🗃️ Programming Languages
 
 ![C](https://img.shields.io/badge/-C-333333?style=flat&logo=c)
@@ -12,7 +14,7 @@
 
 ---
 
-## 🏗️ Frameworks
+## 🏗️ Frameworks & Libraries
 
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
@@ -33,9 +35,22 @@
 
 ---
 
-## 📈 GitHub Stats
+## ✉️ Contact
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=renaissancor&show_icons=true&hide_title=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=renaissancor&layout=compact)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:stephenjhpark99@gmail.com)
 
---- 
+---
+
+## 📊 Activity Graph
+
+![GitHub heatmap](https://github-readme-activity-graph.vercel.app/graph?username=renaissancor&theme=github-dark)
+
+---
+
+## 🧠 Problem Solving
+
+### 🟩 Baekjoon / solved.ac  
+![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=pauljhpark)
+
+### 🟧 LeetCode  
+![LeetCode Stats](https://leetcard.jacoblin.cool/renaissancor?theme=dark&font=Karla)
